@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular----tutorial--firestart": {
+      "hosting": {
+        "ng-firestarter": [
+          "angular----tutorial--firestart"
+        ]
+      }
+    }
+  }
+}
